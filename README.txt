@@ -1,11 +1,11 @@
-This README prove directions to use a finite automate simulator in java that supports both DFAs, NFAs and epsilon NFAs.
+This README provides directions to use a finite automate simulator in java that supports both DFAs, NFAs and epsilon NFAs.
 
 The project can 
-    -Load automate descriptions from text files
+    -Load automata descriptions from text files
     -Run automata on a given input string
     -Print information about the automata
-    -Generate the langue of an automate to a certain length
-    -Construct new automate using operations such as complement, intersection, union, concatenation and closure.
+    -Generate the langue of an automata to a certain length
+    -Construct new automata using operations such as complement, intersection, union, concatenation and closure.
 
 To compile the program, use the following command in the directory containing the source files
 
