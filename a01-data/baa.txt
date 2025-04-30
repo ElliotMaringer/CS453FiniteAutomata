@@ -1,0 +1,6 @@
+       | a   b
+-> s   | bad b
+   b   | ba  bad
+   ba  | baa bad
+*  baa | bad bad
+   bad | bad bad
