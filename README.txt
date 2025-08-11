@@ -39,8 +39,7 @@ their transition table will be printed to the console. Filename should be inpute
        java App --closure <FILENAME> 
 
 Additional Notes: The program assumes that automaton files are in the format of a transition table. 
-For DFA union and intersection operations, it is currently assumed the both DFAs share the same alphabet. The components of
-to-dfa-lazy and to-dfa-full are not implemented and do not work. Ran out of time and decided to submit unfinished rather than take the 2% per day.
+For DFA union and intersection operations, it is currently assumed the both DFAs share the same alphabet.
 
 Author: Elliot Maringer
 Date: 03/12/2025
